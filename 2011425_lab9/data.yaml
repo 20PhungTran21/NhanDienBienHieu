@@ -1,0 +1,11 @@
+train: /content/all_data/train
+val: /content/all_data/val
+
+nc: 5
+
+names:
+  0: "2011425_BachHoaXanh"
+  1: "2011425_DienMayChoLon"
+  2: "2011425_DienMayXanh"
+  3: "2011425_TheGioiDiDong"
+  4: "2011425_Winsmart"
